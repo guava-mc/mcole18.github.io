@@ -3,7 +3,7 @@
 
 ## Summary  
 
-I apply a Growth Mindset to everything I do by embracing challenge, not backing down in the face of failure, working with my peers instead of against them, and always looking for ways to improve.
+I apply a Growth Mindset to everything I do by embracing challenge, not backing down in the face of failure, working with my peers, and always looking for ways to improve.
 
 I aim to use my skills to bring positive change to the world by working with innovative people, technologies, and companies.
 
