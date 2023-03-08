@@ -5,8 +5,6 @@
 
 I apply a Growth Mindset to everything I do by embracing challenge, not backing down in the face of failure, working with my peers, and always looking for ways to improve.
 
-I aim to use my skills to bring positive change to the world by working with innovative people, technologies, and companies.
-
 ## Education  
  M.S. Computer Science | Georgia Institute of Technology  | Aug 2020 - Aug 2023
  
@@ -14,9 +12,13 @@ I aim to use my skills to bring positive change to the world by working with inn
 
  English Dropout | UCLA | Sep 2010 - Jan 2012 | Stopped going to class, founded indie mobile game company
 
-## Professional Experience  
+## Professional Experience
 
-##### *DevOps Engineer* | BlackBerry | Irvine, CA |	Sept 2021 - Present
+##### *Sr Site Reliability Engineer - Platform* | BeyondTrust | Remote |	Oct 2022 - Present
+
+- Actively reducing toil, building systems, improving reliability, manging incidents, monitoring, alerting, and logging at scale, providing quality DX, mentoring juniors, making everything-as-code, and attempting to automate myself out of a job.
+
+##### *DevOps Engineer* | BlackBerry | Remote |	Sept 2021 - Oct 2022
 
 - Deployed and maintained critical applications on cloud-native microservices architecture.
 - Implemented and improved automation, effective monitoring, infrastructure-as-code (IaC), policy as code, and documentation.
@@ -50,7 +52,7 @@ reducing failure rate, downtimes, and time to deployment. Converting an org wide
 
 ## Technical Skills  
 
-Terraform, Jenkins, Git, AWS, macOS, Linux, Agile, Python, Groovy, REST, SQL, React, Docker, Google Search, Golang, Android
+Terraform, Kubernetes, AWS, GitHub Actions, Terragrunt, Jenkins, Git, macOS, Linux, Agile, Python, Groovy, REST, SQL, React, Docker, Google Search, Golang, Android
 
 ## Publications
 
